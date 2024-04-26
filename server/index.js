@@ -10,7 +10,7 @@ app.use(cookieParser());
 app.enable("trust proxy");
 dotenv.config();
 connectDatabase();
-const allowedOrigins = ['https://lostings-foundings.vercel.app'];
+const allowedOrigins = ['https://lostings-foundings.vercel.app', 'http://localhost:3000'];
 app.use(cors({
   origin: allowedOrigins,
   credentials: true,
