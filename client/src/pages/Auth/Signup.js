@@ -74,6 +74,9 @@ const Signup = () => {
             value={password}
             onChange={(e) => setPassword(e.target.value)}
           />
+          <p className="text-sm font-thin mb-2">
+            Don't use common Password
+          </p>
           <label className="block text-md font-semibold">Contact</label>
 
           <input
