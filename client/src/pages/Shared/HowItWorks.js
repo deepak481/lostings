@@ -13,7 +13,7 @@ const HowItWorks = () => {
                 Report Lost or Found Items
               </h3>
               <p className='text-gray-600'>
-                Quickly report any lost or found items on campus with a few
+                Quickly report any lost or found items in office with a few
                 simple clicks.
               </p>
             </div>

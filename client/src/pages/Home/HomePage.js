@@ -13,7 +13,7 @@ function HomePage() {
               Welcome to the Lost and Found University App
             </h1>
             <p className="text-lg md:text-xl mb-8 text-navy font-medium">
-              Never lose your items on campus again!
+              Never lose your items in office again!
             </p>
           </div>
           <img

@@ -28,12 +28,7 @@ const AboutUsPage = () => {
           Introduction
         </h2>
         <p className="text-gray-600 ">
-          Lostings is designed to serve as a centralized hub for the university
-          community. In a bustling campus environment, it's common for
-          individuals to misplace or find items. Losting aims to streamline the
-          process of reporting lost items and facilitating their return to their
-          rightful owners. By leveraging technology, we aim to enhance the
-          overall experience of lost and found services at the university.
+          Lostings is tailored to function as a centralized hub for the company/organization offices. In a dynamic workplace environment, it's not uncommon for individuals to misplace or come across items. Lostings strives to simplify the procedure of reporting lost items and expediting their return to their rightful owners. Through the utilization of technology, our objective is to elevate the overall experience of lost and found services within the company/organization.
         </p>
       </section>
 
